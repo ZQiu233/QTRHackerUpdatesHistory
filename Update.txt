@@ -511,3 +511,7 @@ Wiki现在支持查看物品多个合成表的合成原料了
 
 4.3.7361.27800
 增加一个用于制作RainbowFonts的工具RainbowFontsMaker.exe
+
+4.3.7361.41057
+修改了RainbowFontsMaker的代码配色
+字库添加了ASCII/Letters.rbfont，支持了26个大写字母，目前支持10个阿拉伯数字和26个大写字母
